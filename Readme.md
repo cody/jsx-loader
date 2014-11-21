@@ -10,7 +10,7 @@ npm install --save-dev git://github.com/cody/jsx-loader
 
 ## Usage
 
-With the webpack.config:
+Configure the loader via `webpack.config.js`:
 ```
 module: {
 	loaders: [
