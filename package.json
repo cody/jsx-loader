@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/cody/jsx-loader",
   "dependencies": {
-    "loader-utils": "^0.2.5",
-    "react-tools": "^0.12.1"
+    "loader-utils": "^0.2.5"
+  },
+  "peerDependencies": {
+    "react-tools": "*"
   }
 }
