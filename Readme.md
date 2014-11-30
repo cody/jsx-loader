@@ -7,6 +7,12 @@ A JSX loader for [Webpack](http://webpack.github.io/).
 ```
 npm install --save-dev git://github.com/cody/jsx-loader
 ```
+The [react-tools](https://www.npmjs.org/package/react-tools) are a peer
+dependency for the jsx-loader. This enables you to control which version of
+react-tools should be used:
+```
+npm install --save-dev react-tools
+```
 
 ## Usage
 
