@@ -2,6 +2,8 @@
 
 A JSX loader for [Webpack](http://webpack.github.io/).
 
+> **Deprecated in favor of [babel-loader](https://github.com/babel/babel-loader).**
+
 ## Install
 
 ```
